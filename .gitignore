@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+Speech2Text/SpeechData
+
 # C extensions
 *.so
 
